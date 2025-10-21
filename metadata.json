@@ -1,5 +1,15 @@
 {
   "name": "Collon",
   "symbol": "CLN",
-  "description": "Collon (CLN) is a Solana-based utility token designed for transparent trading, liquidity testing, and smart fee control using Token-2022 extensions.",
-  "image":"image":"https://raw.githubusercontent.com/fernandostubborn-ctrl/token-metadata/main/joker.jpeg"
+  "description": "Collon (CLN) is a Solana-based utility token designed for transparent trading, liquidity testing, and ecosystem growth.",
+  "image": "https://raw.githubusercontent.com/fernandostubborn-ctrl/token-metadata/main/joker.jpeg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/fernandostubborn-ctrl/token-metadata/main/joker.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
